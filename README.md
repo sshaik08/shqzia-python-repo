@@ -1,5 +1,6 @@
 # shqzia-python-repo
 my python skills 📁 🔗 💻
+
 7-7-23
 1) learned about different python datatypes (strings, integers/floats. booleans)
 
